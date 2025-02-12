@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+matplotlib
+matplotlib_fontja
+seaborn
+plotly
+mecab-python3
+unidic-lite
+nlplot
+chardet==5.2.0
